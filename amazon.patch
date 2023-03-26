@@ -1,0 +1,8 @@
+--- ./Openswan-3.0.0/programs/verify/verify.in  2021-01-22 18:25:50.000000000 +0000
++++ ./Openswan-3.0.0/programs/verify/verify.in.new      2023-03-26 08:57:32.945209151 +0000
+@@ -1,4 +1,4 @@
+-#!/usr/bin/python
++#!/usr/bin/python3
+ #
+ # Copyright (C) 2012 Paul Wouters <pwouters@redhat.com>
+ #
